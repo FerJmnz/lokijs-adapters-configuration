@@ -1,1 +1,1 @@
-# lokijs-adapters-configuration
+# pwa-configuration
